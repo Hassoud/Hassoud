@@ -2,11 +2,11 @@
 
 I am Muhammad Hassoud , people call me Hassoud. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/hassoud/)
-[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/muhammad.hassoud)
-[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna)
-[![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aemmadi/)](https://medium.com/@hassoud)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:mhassoud997@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-hassoud-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hassoud/)](https://www.linkedin.com/in/hassoud/)
+[![Instagram Badge](https://img.shields.io/badge/-muhammad.hassoud-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/muhammad.hassoud/)](https://instagram.com/muhammad.hassoud)
+[![Youtube Badge](https://img.shields.io/badge/-Muhammad_Hassoud-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCM7azXWapXd9gGJkAdMCAnQ)](https://www.youtube.com/channel/UCM7azXWapXd9gGJkAdMCAnQ)
+[![Medium Badge](https://img.shields.io/badge/-@mhassoud997-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mhassoud997)](https://medium.com/@mhassoud997)
+[![Gmail Badge](https://img.shields.io/badge/-mhassoud997@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mhassoud997@gmail.com)](mailto:mhassoud997@gmail.com)
 
 ## ⚡ Technologies
 
